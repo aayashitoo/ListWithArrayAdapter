@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListWithArrayAdapter</string>
+    <string name="name">Name \n</string>
+</resources>
